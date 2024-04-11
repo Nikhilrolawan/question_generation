@@ -1,6 +1,6 @@
-transformers==3.0.0 --install-option="--no-deps"
+transformers==3.0.0
 nltk
 nlp
 streamlit
 streamlit-option-menu
-# torch
+torch
